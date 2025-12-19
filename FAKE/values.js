@@ -26,7 +26,7 @@ var rights_categories = "B"; //Категории
 var prava_number      = "AGK798327"; // номер прав
 var prava_date_give   = "04.11.2013"; //Дата выдачи Прав
 var prava_date_out    = "04.11.2043"; //Действителен ДО
-var pravaOrgan        = "2316"; //орган который выдал
+var pravaOrgan        = "2301"; //орган который выдал
 
 // заграник
 var zagran_number     = "GD942932"; //номер загран
@@ -66,6 +66,7 @@ var photo_zagran   = "z.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
