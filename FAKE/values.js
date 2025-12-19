@@ -1,22 +1,22 @@
 // values.js
 
 // Основные данные 
-var fio               = "Шевченко Вiталiй Андрiйович";
-var fio_en            = "Shevchenko Vitalii";
-var birth             = "08.02.2005"; //дата рождения
-var date_give         = "14.07.2020"; //Дата видачи
-var date_out          = "14.07.2024"; // действителен до
-var organ             = "4634"; //орган что выдал документ
-var rnokpp            = "3839007473"; //ИНН
-var uznr              = "20050208-10257"; //Номер записи
-var pass_number       = "004951255"; //номер паспорта
+var fio               = "Колдарай Євграф Янович";
+var fio_en            = "";
+var birth             = "09.03.1990"; //дата рождения
+var date_give         = "18.05.2023"; //Дата видачи
+var date_out          = "18.05.2033"; // действителен до
+var organ             = "2316"; //орган что выдал документ
+var rnokpp            = "3294016258"; //ИНН
+var uznr              = "19900309-09958"; //Номер записи
+var pass_number       = "009153563"; //номер паспорта
 
-var registeredOn      = "05.04.2005"; //дата регистрации
+var registeredOn      = "13.09.2010"; //дата регистрации
 
 // Прописка
-var live              = "М. ЛЬВIВ"; //Место рождение 
-var legalAdress       = "УКРАЇНА ЛЬВIВСЬКА ОБЛАСТЬ М. САМБIР ПЛ. РИНОУ БУД. 33 КВ. 4"; //Место проживание
-var bank_adress       = "УКРАЇНА ЛЬВIВСЬКА ОБЛАСТЬ М. САМБIР ПЛ. РИНОУ БУД. 33 КВ. 4"; //Место жительства указано в банке
+var live              = "М. ДIПРО ДНIПРОПЕТРОВСЬКА ОБЛАСТЬ УКРАЇНА"; //Место рождение 
+var legalAdress       = "УКРАЇНА, ДНIПРОПЕТРОВСЬКА, МIСТО ДНIПРО, ВУЛИЦЯ ПРЯНИШНИКОВА, БУД 145"; //Место проживание
+var bank_adress       = "УКРАЇНА, Днiпропетровська, мiсто Днiпро, вулиця Прянишникова, буд 145"; //Место жительства указано в банке
 
 var sex               = "Ч";
 var sex_en            = "M";
@@ -59,13 +59,14 @@ var isStudyEnabled    = false;
 
 // Пути к нужным фото    ?timestamp=N   "photo.jpg?timestamp=N" динамически: var url = "photo.jpg?timestamp=" + N;
 
-var photo_passport = "2.png"; //эДок, паспорт,
-var photo_rights   = "1.png"; //права
+var photo_passport = "dok.png"; //эДок, паспорт,
+var photo_rights   = "1.1.png"; //права
 var photo_students = "1.png"; //диплом, студ
-var photo_zagran   = "3.png"; //загран
+var photo_zagran   = "z.png"; //загран
 
 var signPng           = "sign.png"; //подпись
 // Можно добавить еще, если надо
+
 
 
 
